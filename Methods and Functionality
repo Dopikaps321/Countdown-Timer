@@ -1,0 +1,11 @@
+    __init__: Initializes the application and sets up the interface.
+    build_interface: Builds the GUI elements (entry field, labels, and buttons).
+    calculate: Converts the total time in seconds to hours, minutes, and seconds.
+    update: Updates the time display based on user input.
+    timer: Manages the countdown of the timer.
+    start: Starts the timer.
+    stop: Stops the timer.
+    reset: Resets the timer to 00:00:00.
+    quit: Closes the application.
+    pause: Pauses the timer.
+    resume: Resumes the timer.
